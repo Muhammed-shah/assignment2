@@ -1,0 +1,6 @@
+def square(a):
+    print(a*a)
+
+x=int(input("Enter the one digit number"))
+
+square(x)
